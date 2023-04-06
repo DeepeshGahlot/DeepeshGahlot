@@ -1,6 +1,6 @@
 [![MasterHead](https://i0.wp.com/engineanalytics.tech/wp-content/uploads/2022/09/output-onlinegiftools.gif?resize=801%2C372&ssl=1)](https://deepeshgahlot.io)
 <h1 align="center">Hello👋, I'm Deepesh Gahlot</h1>
-<h3 align="center">I'm an aspiring data analyst from India❤️.</h3>
+<h3 align="center">I'm an aspiring data analyst from India❤️</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshgahlot&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshgahlot" /> </p>
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepesh-gahlot-dg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepesh-gahlot-dg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepesh-gahlot-dg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepesh-gahlot-dg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/gehlot_deepesh31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gehlot_deepesh31" height="30" width="40" /></a>
 </p>
 
