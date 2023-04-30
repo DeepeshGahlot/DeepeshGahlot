@@ -9,9 +9,9 @@
 
 - 📊 I’m currently learning **Microsoft Power Bi**
 
-- 💬 Ask me about **SQL, Excel**
+- 💬 Ask me about **SQL, Excel, Power BI**
 
-- 📫 How to reach me **gehlot.deepesh3108@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/deepesh-gahlot-dg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
