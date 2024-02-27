@@ -7,9 +7,9 @@
 
 - 🧠 I’m currently working on **improving and developing my skills.**
 
-- 📊 I’m currently learning **Microsoft Power Bi**
+- 📊 I’m currently learning **Python**
 
-- 💬 Ask me about **SQL, Excel, Power BI**
+- 💬 Ask me about **SQL, MS Excel, Microsoft Power BI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
